@@ -17,14 +17,14 @@ Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una
 - [ ] aprite Esplora Risorse
 - [ ] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
 - [ ] aprite Eclipse
-- [ ] importate il progetto contenuto nella cartella `code`
+- [ ] importate il progetto con File->Import->General->Existing Project Into Workspace e **selezionate la cartella `code`**
 - [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
 - [ ] da git-bash, fate `git status` per controllare i file modificati
 - [ ] aggiungete il file che volete pubblicare con `git add <nome-file>`
 - [ ] fate il commit delle modifiche con `git commit`
-- [ ] mettete un commento **significativo**
+- [ ] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
 - [ ] pubblicate il codice con `git push`
 - [ ] rispondete alla issue sul mio repository originale con il testo "Consegnato"
 
@@ -47,7 +47,7 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 - Push su GitHub: 1 punto
 
 # Note generali
-È **importante** che spuntiate le caselle qui sopra, mi servono per capire cosa avete fatto e cosa no. Per spuntarle, modificate il file (da interfaccia web o in locale sul vostro computer) e aggiungete una X tra le parentesi quadre, così:
+È utile per me se spuntiate le caselle qui sopra, mi servono per capire cosa avete fatto e cosa no. Per spuntarle, modificate il file (da interfaccia web o in locale sul vostro computer) e aggiungete una X tra le parentesi quadre, così:
 - [X] voce spuntata
 
 **È possibile** consultare il progetto di esempio che è stato fornito durante la lezione.
