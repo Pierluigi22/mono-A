@@ -21,7 +21,8 @@ Eseguite le seguenti operazioni, dopo aver completato ognuna di esse mettete una
 - [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
-- [ ] da git-bash, fate `git status` per controllare i file modificati
+- [ ] da git-bash, assicuratevi di essere all'interno della cartella del repository (il prompt deve finire con `(master)`
+- [ ] fate `git status` per controllare i file modificati
 - [ ] aggiungete il file che volete pubblicare con `git add <nome-file>`
 - [ ] fate il commit delle modifiche con `git commit`
 - [ ] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
