@@ -23,8 +23,6 @@ public class Main extends JFrame {
 		super.add(new JLabel(__TODO__));
 		super.setVisible(true);
 		 
-		System.out.println(htmlText);
-		
 		System.out.println("Verifica Swing-GitHub");
 		
 		
