@@ -10,7 +10,7 @@ public class Main extends JFrame {
 		super("Project X");
 		super.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 		
-		// TODO Inserire la size in accordo con il wireframe
+		// TODO Inserire la size in accordo con il wireframe, con dei valori verosimili
 		super.setSize(__TODO__,__TODO__);
 		
 		// TODO Usare StringBuilder per costruire la stringa HTML
