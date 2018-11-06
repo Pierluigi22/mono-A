@@ -29,6 +29,8 @@ Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi ve
 - [ ] rispondete alla issue sul mio repository originale con il testo "Consegnato"
 
 # Note implementazione progetto
+Fate girare il vostro progetto il più spesso possibile per controllare che non sia corretto.
+
 Implementate la tabella con i div che abbiamo visto a lezione, anche se (per ora) non è possibile renderizzarlo correttamente.
 
 Usate StringBuilder per la costruzione della stringa. Convertitela correttamente in stringa prima di usarla nella JLabel.
@@ -45,6 +47,7 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 - Corretta indentazione del codice sorgente: 1 punto
 - Uso StringBuilder: 1 punto
 - Chiarezza del codice (commenti, identificativi variabili, etc.): 1 punto
+- Codice che compila: 1 punto
 - Scrittura di un messaggio di commit significativo: 1 punto
 - Push su GitHub: 1 punto
 
