@@ -35,6 +35,8 @@ Usate StringBuilder per la costruzione della stringa. Convertitela correttamente
 
 # Calcolo del punteggio
 - Fork progetto: 1 punto
+- Correzione Java package: 1 punto
+- Impostazione setSize: 1 punto
 - Visualizzazione titolo pagina HTML: 1 punto
 - Visualizzazione descrizione pagina: 1 punto
 - Visualizzazione intestazione tabella: 1 punto
